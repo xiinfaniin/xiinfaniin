@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mumin Muhumed</h1>
-<h3 align="center">A passionate Network & Cybersecurity</h3>
+<h3 align="center">A passionate data Science and AI</h3>
 
 - 🌱 I’m currently learning **CompTai Network+**
 
